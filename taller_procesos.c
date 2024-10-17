@@ -1,4 +1,5 @@
 /****************************************************
+Nombre: Laura Garzón, Jocelyne González, Juan Diego Romero y Carlos Rojas 
 Fecha: 10-octubre-2024
 Tema: fork
 descripción: Este programa en C realiza la lectura de dos archivos que contienen arreglos de enteros. Usa procesos creados con fork() para realizar cálculos concurrentes. Se divide en cuatro procesos:
